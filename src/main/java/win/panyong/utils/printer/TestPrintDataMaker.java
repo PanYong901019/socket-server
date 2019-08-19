@@ -1,10 +1,7 @@
 package win.panyong.utils.printer;
 
 
-import win.panyong.utils.DateUtil;
-import win.panyong.utils.printer.PrinterWriter;
-import win.panyong.utils.printer.PrinterWriter58mm;
-import win.panyong.utils.printer.PrinterWriter80mm;
+import com.easyond.utils.DateUtil;
 
 import java.util.ArrayList;
 import java.util.Date;
